@@ -39,6 +39,12 @@ li {
 li:hover {
     color: #8c00ff;
     cursor: pointer;
+    text-decoration: underline;
+}
+
+.home {
+    text-decoration: underline;
+     color: #8c00ff;
 }
 
 .btn1 {
@@ -140,4 +146,5 @@ span{
         display: flex;
     }
 }
+
 
