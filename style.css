@@ -10,7 +10,7 @@ body {
     height: 50vh;
 }
 
-nav {
+nav{
     height: 50px;
     width: 100%;
     display: flex;
@@ -32,7 +32,6 @@ nav li {
     height: 50px;
 }
 
-
 nav a{
     height: 100%;
     padding: 0 30px;
@@ -52,6 +51,7 @@ nav li:first-child{
     margin-right: auto;
 }
 
+
 .sidebar{
     position: fixed;
     top: 0;
@@ -66,7 +66,6 @@ nav li:first-child{
     justify-content: flex-start;
     border-radius: 10px;
 }
-
 .sidebar li{
     width: 100%;
 }
@@ -106,6 +105,7 @@ nav li:first-child{
     color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+
 .left {
     width: 500px;
 }
